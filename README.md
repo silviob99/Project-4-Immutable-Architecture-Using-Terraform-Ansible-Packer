@@ -2,7 +2,8 @@
 
 # Project-4-Immutable Infrastructure using Terraform, Ansible, Packer
 
-LEMP stack: Linux OS, Nginx web server, MySQL database, PHP scripting language. It's a powerful combo for hosting dynamic websites, ensuring high performance and scalability.
+
+Immutable infrastructure is an architectural approach in software engineering and system administration where infrastructure components, such as servers and networking configurations, are never modified after deployment. Instead of making changes to existing infrastructure, any updates or modifications are implemented by deploying new instances or resources.
 
 "Project 4 implements immutable infrastructure with Terraform, Ansible, and Packer. It automates provisioning, configuration, and deployment, ensuring consistency, reliability, and simplified maintenance."
 
