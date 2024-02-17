@@ -1,18 +1,16 @@
-![Immutable Inftastructure (3)](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/a866a1dc-8583-4947-b6cb-f6e25b0b68f4)
+![Immutable Inftastructure (1)](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/5168ee23-eddb-4419-b758-0c0f861ed5c9)
 
 # Project-4-Immutable Infrastructure using Terraform, Ansible, Packer
+
 LEMP stack: Linux OS, Nginx web server, MySQL database, PHP scripting language. It's a powerful combo for hosting dynamic websites, ensuring high performance and scalability.
 
-Project 2 - Nginx, MySQL, PHP (LEMP) Web Stack Implementation This project provides a step-by-step guide on setting up a LEMP (Linux, Nginx, MySQL, PHP) web stack on an Ubuntu 20.04 server.
+"Project 4 implements immutable infrastructure with Terraform, Ansible, and Packer. It automates provisioning, configuration, and deployment, ensuring consistency, reliability, and simplified maintenance."
 
-Table of Contents
+### Table of Contents
 Project Overview
 Installation
 Usage
 Steps
-Project overview
-Project Overview Project-2: Web Stack Implementation (LEMP) is a tutorial-based project that guides users through the process of setting up a LEMP (Linux, Nginx, MySQL, PHP) web stack on Ubuntu 20.04. This project aims to provide a step-by-step guide for beginners to learn how to install and configure the essential components of a web server.
-
 Prerequisites
 Before starting the installation process, ensure that you have the following prerequisites:
 
