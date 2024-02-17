@@ -2,19 +2,17 @@
 
 # Project-4-Immutable Infrastructure using Terraform, Ansible, Packer
 
-
 Immutable infrastructure is an architectural approach in software engineering and system administration where infrastructure components, such as servers and networking configurations, are never modified after deployment. Instead of making changes to existing infrastructure, any updates or modifications are implemented by deploying new instances or resources.
 
 "Project 4 implements immutable infrastructure with Terraform, Ansible, and Packer. It automates provisioning, configuration, and deployment, ensuring consistency, reliability, and simplified maintenance."
 
 ### Table of Contents
-Project Overview
-Installation
-Usage
-Steps
-Prerequisites
-Before starting the installation process, ensure that you have the following prerequisites:
+- Project Overview
+- Installation
+- Usage
+- Steps
 
+  
 An AWS account
 A virtual server with Ubuntu Server OS
 Installation
