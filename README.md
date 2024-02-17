@@ -17,7 +17,7 @@ Project-4: Immutable Infrastructure Implementation with Terraform, Ansible, and 
 
 The primary objective of this project is to provide a comprehensive understanding of immutable infrastructure principles and practices. By following the step-by-step instructions outlined in this tutorial, users will gain practical experience in building a resilient, scalable, and easily maintainable infrastructure setup that promotes consistency and reliability.
 
-### Prerequsites
+### Prerequsites:
 
 - Basic Understanding of Infrastructure Concepts: It's helpful to have a foundational understanding of infrastructure components such as servers, networking, and cloud services.
 
@@ -41,35 +41,26 @@ To set up immutable infrastructure using Terraform, Ansible, and Packer for Proj
 
 #### Step 0: Preparing Prerequisites
 
-Steps
-Step 0: Preparing Prerequisites
+- AWS Account
+- Linux/Unix environment
+- IDE (Visual Studio)
+- Install Terraform on your machine
+- 
 
-Create an AWS account if you don't have one.
-Ensure you have Terraform, Ansible, and Packer installed on your local machine.
-Steps
-Step 0: Preparing Prerequisites
-Create an AWS account if you don't have one.
-Launch an EC2 instance of the t2.nano family with Ubuntu Server 20.04 LTS (HVM) image.
-Step 1: Installing Nginx Web Server
-Install Git Bash.
-Launch Git Bash and run the following command to connect to your EC2 instance: ssh -i <Your-private-key.pem> ubuntu@<EC2-Public-IP-address>.
-Install Nginx using the apt package manager.
-Verify that Nginx is running by checking its status.
-Step 2: Installing MySQL
-Install MySQL using the apt package manager.
-Run the MySQL security script to secure your MySQL installation.
-Test if you can log in to the MySQL console.
-Step 3: Installing PHP
-Install PHP using the apt package manager.
-Verify the PHP installation.
-Step 4: Configuring Nginx to Use PHP Processor
-Configure Nginx to use PHP-FPM to process PHP files.
-Step 5: Testing PHP with Nginx
-Create a test PHP file and verify that it's being served correctly by Nginx.
-Step 6: Retrieving Data from MySQL Database with PHP
-Connect to the MySQL database using PHP and retrieve data.
-Usage
-Once the LEMP stack is set up, you can use it to host and run web applications. To test if your installation is successful, you can access your website using the public IP address of your EC2 instance.
+#### Step 1: Setting up the folder tree
+
+Step 1 for Project 4 involves setting up the folder structure as follows:
+
+- Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
+- Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
+- Within each environment subfolder, create three additional subfolders: "Database," "Load Balancer," and "VPC."
+- Open your integrated development environment (IDE) and navigate to the folder structure.
+- Select the "VPC" folder and create a new file named "main.tf" and another file named "variables.tf," both with the ".tf" extension.
+- Proceed to the next step once these files are created.
+This step-by-step guide ensures an organized folder structure for your Terraform project, facilitating environment-specific configurations using modules.
+
+![Terraform-tree](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/e74e3c9b-0d0c-4e97-836f-0ae160289616)
+
 
 Steps
 Step 0: Preparing Prerequisites
