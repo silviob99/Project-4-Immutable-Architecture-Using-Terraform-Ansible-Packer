@@ -9,7 +9,6 @@ Immutable infrastructure is an architectural approach in software engineering an
 ### Table of Contents
 - Project Overview
 - Installation
-- Usage
 - Steps
 
 
@@ -34,6 +33,19 @@ The primary objective of this project is to provide a comprehensive understandin
 
 - Internet Connection: Ensure you have a stable internet connection to download any necessary software packages and documentation as you work through the project.
 
+### Installation
+To set up immutable infrastructure using Terraform, Ansible, and Packer for Project 4, follow these steps:
+
+
+### Steps
+
+#### Step 0: Preparing Prerequisites
+
+Steps
+Step 0: Preparing Prerequisites
+
+Create an AWS account if you don't have one.
+Ensure you have Terraform, Ansible, and Packer installed on your local machine.
 Steps
 Step 0: Preparing Prerequisites
 Create an AWS account if you don't have one.
