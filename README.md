@@ -59,8 +59,6 @@ Step 1 for Project 4 involves setting up the folder structure as follows:
 - Proceed to the next step once these files are created.
 This step-by-step guide ensures an organized folder structure for your Terraform project, facilitating environment-specific configurations using modules.
 
-![Terraform-tree](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/e74e3c9b-0d0c-4e97-836f-0ae160289616)
-
 
 Steps
 Step 0: Preparing Prerequisites
