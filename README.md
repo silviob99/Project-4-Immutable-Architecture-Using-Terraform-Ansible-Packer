@@ -12,11 +12,10 @@ Immutable infrastructure is an architectural approach in software engineering an
 - Usage
 - Steps
 
-  
-An AWS account
-A virtual server with Ubuntu Server OS
-Installation
-To install and set up the LEMP stack on Ubuntu 20.04, follow these steps:
+### Project Overview
+Project-4: Immutable Infrastructure Implementation with Terraform, Ansible, and Packer is a tutorial-based project aimed at guiding users through the creation of an immutable infrastructure environment. In this project, users will learn how to leverage Terraform for infrastructure provisioning, Packer for creating immutable machine images, and Ansible for server configuration management.
+
+The primary objective of this project is to provide a comprehensive understanding of immutable infrastructure principles and practices. By following the step-by-step instructions outlined in this tutorial, users will gain practical experience in building a resilient, scalable, and easily maintainable infrastructure setup that promotes consistency and reliability.
 
 Steps
 Step 0: Preparing Prerequisites
