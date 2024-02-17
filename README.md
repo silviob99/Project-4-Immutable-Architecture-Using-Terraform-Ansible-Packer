@@ -1,3 +1,4 @@
+![Immutable Inftastructure (3)](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/a866a1dc-8583-4947-b6cb-f6e25b0b68f4)
 
 # Project-4-Immutable Infrastructure using Terraform, Ansible, Packer
 LEMP stack: Linux OS, Nginx web server, MySQL database, PHP scripting language. It's a powerful combo for hosting dynamic websites, ensuring high performance and scalability.
