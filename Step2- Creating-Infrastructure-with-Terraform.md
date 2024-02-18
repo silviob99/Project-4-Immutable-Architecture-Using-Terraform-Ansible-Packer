@@ -19,5 +19,5 @@ If you're using Visual Studio Code as your preferred text editor, you can follow
 
 It will look like this picture below:
 
-<img width="1470" alt="VS-UI-Terraform" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/c877f5af-97c7-449e-88fa-3abca6f6f7ca">
+<img width="1000" alt="VS-UI-Terraform" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/c877f5af-97c7-449e-88fa-3abca6f6f7ca">
   
