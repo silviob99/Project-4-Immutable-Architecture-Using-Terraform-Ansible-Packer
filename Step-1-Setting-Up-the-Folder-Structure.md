@@ -25,7 +25,7 @@ mkdir prod
 - Linux commands: 
 ```
 mkdir Database
-mkdir "Load Balancer"
+mkdir Load-Balancer
 mkdir VP
 ```
 
