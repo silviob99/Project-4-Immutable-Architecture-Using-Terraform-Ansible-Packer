@@ -8,6 +8,7 @@ Immutable infrastructure is an architectural approach in software engineering an
 
 ### Table of Contents
 - Project Overview
+- Prerequisites
 - Installation
 - Steps
 
