@@ -7,7 +7,6 @@
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 - Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
 
-
 2. Navigate to the "Module" folder:
 - Linux command: ```cd "Terraform project"/Module```
   
@@ -39,6 +38,12 @@ mkdir VP
 touch main.tf
 touch variables.tf
 ```
+
+8. Navigate back to the root "Terraform project" folder:
+- Linux command: ```cd ../../```
+  
+9. Create a folder named "packer" within the "Terraform project" directory:
+- Linux command: ```mkdir "packer"```
 
 
 
