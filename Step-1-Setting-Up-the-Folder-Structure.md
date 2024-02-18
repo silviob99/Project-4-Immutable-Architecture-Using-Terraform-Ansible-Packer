@@ -5,15 +5,19 @@
 ### Step 1: Setting up the folder tree
 
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
+
 2. Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
+
 3. Navigate to the "Module" folder:
 - Linux command: ```cd "Terraform project"/Module```
-3. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
+
+4. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
 - Linux commands:
 ```
 mkdir dev
 mkdir test
 mkdir prod
 ```
-4. Navigate to the "dev" environment folder:
+
+5. Navigate to the "dev" environment folder:
 - Linux command: ```cd dev```
