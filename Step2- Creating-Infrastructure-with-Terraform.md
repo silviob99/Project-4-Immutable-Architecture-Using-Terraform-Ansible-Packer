@@ -9,7 +9,7 @@ If you're using Visual Studio Code as your preferred text editor, you can follow
  
 2. Navigate to the directory where your "main.tf" file is located. You can do this by clicking on "File" in the top menu, then selecting "Open Folder" and choosing the folder containing your Terraform project.
 
-3.Once inside the folder, locate the "main.tf" file.
+3. Once inside the folder, locate the "main.tf" file.
 
 4. Right-click on the "main.tf" file and select "Open with Code" from the context menu. This will open the file in Visual Studio Code.
 
@@ -21,4 +21,5 @@ It will look like this picture below:
 
 ![VS-UI-Terraform](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/00f2d1af-2d6e-4659-b5b5-81bbb6e6898c)
 
-
+7. In the next step, we'll begin creating our infrastructure using Terraform. To get started, we'll visit the Terraform provider documentation for AWS, available at:
+[Terraform Registry](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
