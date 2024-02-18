@@ -31,3 +31,7 @@ It will look like this picture below:
 Once you have found the code you need, copy it to your Visual Studio Code editor and make any necessary changes, such as specifying the region or adjusting resource configurations according to your requirements. This step allows for customization and fine-tuning of the infrastructure setup to suit your project needs.
 
 <img width="500" alt="provider-code" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/ae064029-ec85-4acd-a04f-1b2af8f62757">
+
+In this step, we'll define the Virtual Private Cloud (VPC) and subnets for our infrastructure using Terraform. Following the same approach as before, we'll visit the Terraform provider documentation for AWS to find resources for VPC and subnets. We'll define attributes such as CIDR blocks, VPC name, tags, subnet tags, and any other necessary configurations to tailor the VPC and subnets according to our project requirements.
+
+<img width="500" alt="vpc-subnet-code" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/a5cb1ae8-53c2-490c-9d92-cd9a9a3f91fb">
