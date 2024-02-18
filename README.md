@@ -59,7 +59,7 @@ Step 1 for Project 4 involves setting up the folder structure as follows:
 - Proceed to the next step once these files are created.
 This step-by-step guide ensures an organized folder structure for your Terraform project, facilitating environment-specific configurations using modules.
 
-#### Step 2: Setting up the folder tree
+#### Step 2: Creating Infrastructure with Terraform
 
 Steps
 - Step 0: Preparing Prerequisites
