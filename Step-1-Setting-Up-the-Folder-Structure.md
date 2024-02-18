@@ -4,11 +4,11 @@
 
 ### Step 1: Setting up the folder tree with Linux commands
 
-1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
-- Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
+1. Create a root folder named Terraform-project with two subfolders: "Deployment" and "Module."
+- Linux command: ```mkdir -p Terraform-project/{Deployment,Module}```
 
 2. Navigate to the "Module" folder:
-- Linux command: ```cd "Terraform project"/Module```
+- Linux command: ```cd Terraform-project/Module```
   
 3. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
 - Linux commands:
