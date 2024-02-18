@@ -48,6 +48,6 @@ touch variables.tf
 - At the end you should have the structure like this one shown on the picture below:
 
 
-![Terraform-tree](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/0e90c04e-60b9-4c1f-a984-77089de11790)
+![Uploading Terraform-tree1.png…]()
 
 
