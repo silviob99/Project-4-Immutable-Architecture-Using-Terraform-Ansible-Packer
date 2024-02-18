@@ -5,7 +5,6 @@
 ### Step 1: Setting up the folder tree
 
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
-
 - Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
 
 2. Navigate to the "Module" folder:
@@ -32,5 +31,13 @@ mkdir VP
 
 6. Navigate to the "VPC" folder:
 - Linux command: ```cd VPC```
-- 
+
+7. Create a new file named "main.tf" and another file named "variables.tf," both with the ".tf" extension.
+- Linux commands:
+  ```
+touch main.tf
+touch variables.tf
+```
+
+
 
