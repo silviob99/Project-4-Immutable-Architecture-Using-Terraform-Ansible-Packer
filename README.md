@@ -45,7 +45,7 @@ To set up immutable infrastructure using Terraform, Ansible, and Packer for this
 - Linux/Unix environment
 - IDE (Visual Studio)
 - Install Terraform on your machine
-- Create folder three
+- Create folder tree
 
 #### Step 1: Setting up the folder tree
 
@@ -63,9 +63,9 @@ This step-by-step guide ensures an organized folder structure for your Terraform
 
 Steps
 - Step 0: Preparing Prerequisites
-- Step 1: Installing Nginx Web Server
-- Step 2: Installing MySQL
-- Step 3: Installing PHP
-- Step 4: Configuring Nginx to Use PHP Processor
-- Step 5: Testing PHP with Nginx
-- Step 6: Retrieving Data from MySQL Database with PHP
+- Step 1: Setting up the folder tree
+- Step 2: Creating Infrastructure with Terraform
+- Step 3: 
+- Step 4: 
+- Step 5: 
+- Step 6: 
