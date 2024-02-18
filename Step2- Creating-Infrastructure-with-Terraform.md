@@ -26,5 +26,5 @@ It will look like this picture below:
 [Terraform Registry - Hashicorp](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 , where we'll find the necessary resources and configuration options provided by the AWS provider. We'll use this documentation as a reference to write our Terraform code for provisioning infrastructure components on AWS.
 
-<img width="720" alt="registry-provider" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/2d073731-3c10-4de5-8c0b-cd9dc86ea424">
+<img width="500" alt="registry-provider" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/2d073731-3c10-4de5-8c0b-cd9dc86ea424">
 
