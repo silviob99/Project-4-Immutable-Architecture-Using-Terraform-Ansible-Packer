@@ -6,10 +6,10 @@
 
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 - Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
-
+  
 2. Navigate to the "Module" folder:
 - Linux command: ```cd "Terraform project"/Module```
-
+  
 3. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
 - Linux commands:
 ```
@@ -20,7 +20,7 @@ mkdir prod
 
 4. Navigate to the "dev" environment folder:
 - Linux command: ```cd dev```
-
+  
 5. Within each environment subfolder, create three additional subfolders: "Database," "Load Balancer," and "VPC."
 - Linux commands: 
 ```
@@ -31,10 +31,10 @@ mkdir VP
 
 6. Navigate to the "VPC" folder:
 - Linux command: ```cd VPC```
-
+  
 7. Create a new file named "main.tf" and another file named "variables.tf," both with the ".tf" extension.
 - Linux commands:
-  ```
+```
 touch main.tf
 touch variables.tf
 ```
