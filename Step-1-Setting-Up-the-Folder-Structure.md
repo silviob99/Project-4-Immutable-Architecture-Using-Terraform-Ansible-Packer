@@ -6,12 +6,12 @@
 
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 
-2. Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
+- Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
 
-3. Navigate to the "Module" folder:
+2. Navigate to the "Module" folder:
 - Linux command: ```cd "Terraform project"/Module```
 
-4. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
+3. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
 - Linux commands:
 ```
 mkdir dev
@@ -19,5 +19,14 @@ mkdir test
 mkdir prod
 ```
 
-5. Navigate to the "dev" environment folder:
+4. Navigate to the "dev" environment folder:
 - Linux command: ```cd dev```
+
+5. Within each environment subfolder, create three additional subfolders: "Database," "Load Balancer," and "VPC."
+- Linux commands: 
+```
+mkdir Database
+mkdir "Load Balancer"
+mkdir VP
+```
+
