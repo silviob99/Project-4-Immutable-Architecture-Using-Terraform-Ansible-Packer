@@ -2,7 +2,7 @@
 
 
 
-### Step 1: Setting up the folder tree
+### Step 1: Setting up the folder tree with Linux commands
 
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 - Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
