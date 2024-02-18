@@ -15,3 +15,10 @@ mkdir -p "Terraform project"/{Deployment,Module}
 ```
 cd "Terraform project"/Module
 ```
+3. Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
+- Linux commands:
+```
+mkdir dev
+mkdir test
+mkdir prod
+```
