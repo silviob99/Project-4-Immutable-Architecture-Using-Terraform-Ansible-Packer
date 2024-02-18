@@ -34,7 +34,7 @@ The primary objective of this project is to provide a comprehensive understandin
 - Internet Connection: Ensure you have a stable internet connection to download any necessary software packages and documentation as you work through the project.
 
 ### Installation
-To set up immutable infrastructure using Terraform, Ansible, and Packer for Project 4, follow these steps:
+To set up immutable infrastructure using Terraform, Ansible, and Packer for this project, follow these steps:
 
 
 ### Steps
@@ -59,6 +59,7 @@ Step 1 for Project 4 involves setting up the folder structure as follows:
 - Proceed to the next step once these files are created.
 This step-by-step guide ensures an organized folder structure for your Terraform project, facilitating environment-specific configurations using modules.
 
+#### Step 2: Setting up the folder tree
 
 Steps
 - Step 0: Preparing Prerequisites
