@@ -3,3 +3,7 @@
 ### Step 2: Creating Infrastructure with Terrafom
 
 In this step, we'll use Terraform to create the necessary infrastructure components, including VPC, subnets, route tables, route table rules, and associations.
+
+#### Navigate to the "VPC" folder:
+- Linux command: ```Terraform-project/Module/dev/VPC ```
+
