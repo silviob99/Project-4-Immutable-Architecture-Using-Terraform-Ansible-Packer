@@ -45,5 +45,9 @@ touch variables.tf
 9. Create a folder named "packer" within the "Terraform project" directory:
 - Linux command: ```mkdir "packer"```
 
+- At the end you should have the structure like this one shown on the picture below:
+
+
+![Terraform-tree](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/0e90c04e-60b9-4c1f-a984-77089de11790)
 
 
