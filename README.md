@@ -49,7 +49,7 @@ To set up immutable infrastructure using Terraform, Ansible, and Packer for this
 
 #### Step 1: Setting up the folder tree
 
-Step 1 for Project 4 involves setting up the folder structure as follows:
+Project 4 involves setting up the folder structure as follows:
 
 - Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 - Within the "Module" folder, create subfolders for different environments: "dev," "test," and "prod."
