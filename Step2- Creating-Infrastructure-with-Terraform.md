@@ -19,5 +19,6 @@ If you're using Visual Studio Code as your preferred text editor, you can follow
 
 It will look like this picture below:
 
-![VS-UI-Terraform Background Removed](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/4dd52d0f-065c-4b0c-b38a-bbf56b9848c3)
+![VS-UI-Terraform](https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/00f2d1af-2d6e-4659-b5b5-81bbb6e6898c)
+
 
