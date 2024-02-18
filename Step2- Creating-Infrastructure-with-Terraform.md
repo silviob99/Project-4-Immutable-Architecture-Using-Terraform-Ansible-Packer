@@ -28,3 +28,6 @@ It will look like this picture below:
 
 <img width="500" alt="registry-provider" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/2d073731-3c10-4de5-8c0b-cd9dc86ea424">
 
+Once you have found the code you need, copy it to your Visual Studio Code editor and make any necessary changes, such as specifying the region or adjusting resource configurations according to your requirements. This step allows for customization and fine-tuning of the infrastructure setup to suit your project needs.
+
+<img width="500" alt="provider-code" src="https://github.com/silviob99/Project-4-Immutable-Architecture-Using-Terraform-Ansible-Packer/assets/107585020/ae064029-ec85-4acd-a04f-1b2af8f62757">
