@@ -6,7 +6,7 @@
 
 Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 Linux command:
-,,,
+```
 mkdir -p "Terraform project"/{Deployment,Module}
-,,,
+```
 
