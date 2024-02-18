@@ -22,3 +22,5 @@ mkdir dev
 mkdir test
 mkdir prod
 ```
+4. Navigate to the "dev" environment folder:
+- Linux command: ```cd dev```
