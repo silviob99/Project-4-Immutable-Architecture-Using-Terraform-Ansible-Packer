@@ -6,7 +6,8 @@
 
 1. Create a root folder named "Terraform project" with two subfolders: "Deployment" and "Module."
 - Linux command: ```mkdir -p "Terraform project"/{Deployment,Module}```
-  
+
+
 2. Navigate to the "Module" folder:
 - Linux command: ```cd "Terraform project"/Module```
   
