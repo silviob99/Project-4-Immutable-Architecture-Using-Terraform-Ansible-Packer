@@ -30,3 +30,7 @@ mkdir "Load Balancer"
 mkdir VP
 ```
 
+6. Navigate to the "VPC" folder:
+- Linux command: ```cd VPC```
+- 
+
