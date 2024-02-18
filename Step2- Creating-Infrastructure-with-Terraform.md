@@ -24,3 +24,4 @@ It will look like this picture below:
 7. In the next step, we'll begin creating our infrastructure using Terraform. To get started, we'll visit the Terraform provider documentation for AWS, available at:
    
 [Terraform Registry - Hashicorp](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+, where we'll find the necessary resources and configuration options provided by the AWS provider. We'll use this documentation as a reference to write our Terraform code for provisioning infrastructure components on AWS.
